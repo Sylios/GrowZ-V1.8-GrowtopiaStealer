@@ -1,6 +1,6 @@
 # GrowZ-V1.8-GrowtopiaStealer
 
-GrowtopiaStealer powerful stealer written in C#. 
+GrowtopiaStealer powerful stealer written in C#!
 
 FEATURES
 
